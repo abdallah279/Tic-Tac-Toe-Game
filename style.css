@@ -167,7 +167,7 @@ body{
     transform: translate(-50%, -50%) scale(1);
 }
 .result-box .won-text{
-    font-size: 29px;
+    font-size: 27px;
     font-weight: 500;
     display: flex;
     justify-content: center;
